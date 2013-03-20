@@ -1,0 +1,2 @@
+module FoodappHelper
+end
